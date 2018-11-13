@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"first_href"
+			],
+			[
+				"em",
+				"emp_1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				" instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Channel"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jeanp/Documents/Projects/CodeBlog/codeBlog.html",
+		"/C/Users/jeanp/Documents/Projects/CodeBlog/codeBlogStyle.css",
+		"/C/Users/jeanp/Documents/Profile/codeBlogStyle.css",
+		"/C/Users/jeanp/Documents/Youtube/learnThenMake/BasicTuts/crawler_basic/crawler.py",
+		"/C/Users/jeanp/Documents/Youtube/learnThenMake/BasicTuts/crawler_real/crawler.py",
+		"/F/programmgFromY509Nov2018/Programming/Projects/SearchEngine/main.py",
+		"/C/Users/jeanp/Desktop/BasicTuts/crawler.py",
+		"/F/programmgFromY509Nov2018/Programming/Projects/SearchEngine/crawlerAgain.py",
+		"/F/programmgFromY509Nov2018/Programming/Practice/wbcrwlr/crawler_two.py",
+		"/C/Users/jeanp/Desktop/temporio.py",
+		"/C/Users/jeanp/Desktop/temp.py",
+		"/C/Users/jeanp/bash_profile",
+		"/C/Users/jeanp/Desktop/run27.py",
+		"/C/Users/jeanp/Desktop/run37.py",
+		"/C/Users/jeanp/AppData/Roaming/Sublime Text 3/Packages/User/Python-2.7.sublime-build",
+		"/C/Users/jeanp/AppData/Roaming/Sublime Text 3/Packages/User/Python-3.7.sublime-build",
+		"/C/Users/jeanp/AppData/Roaming/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/C/Users/jeanp/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/jeanp/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/jeanp/Documents/Practice/DSA/singly_linked_list.py",
+		"/C/Users/jeanp/Documents/Practice/Hackerrank/30DaysCode_16Oct2018/15__LinkedList.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/",
+			"\\",
+			"309"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 493.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python-3.7.sublime-build",
+	"project": "codeBlog.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
