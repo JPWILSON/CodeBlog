@@ -2,12 +2,12 @@
 	font-family: Trebuchet MS;
 }
 
-body, ul, li{
+body, ul, li {
 	margin: 0;
 	padding: 0;
 }
 
-li, p, h1, h2, h3, h4 {
+p,li,h1,h2,h3,h3 {
 	color: #4e4e4e;
 }
 
@@ -22,7 +22,55 @@ body {
 	padding: 0 2%;
 }
 
-header{
+header {
 	background: #e5e5e5;
-	margin:
+	padding: 20px 0;
+}
+
+header h1 {
+	margin: 0;
+	text-indent: -10000px;
+	background: url(images/title.png) no-repeat;
+	background-size: 150px;
+	width: 150px;
+	float: left;
+}
+
+
+header nav{
+	float: right;
+}
+
+header:after{
+	display: block;
+	content: "";
+	clear: both;
+}
+
+header nav h2{
+	text-indent: -10000px;
+	line-height: 0;
+	margin: 0;
+}
+
+header nav li {
+	list-style: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+header nav li a {
+	text-decoration: none;
+	color: #4e4e4e;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+header nav li a.current{
+	color: #1abb9c;
+}
+
+#main-banner img{
+	width: 100%;
 }
