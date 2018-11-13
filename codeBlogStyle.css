@@ -2,17 +2,17 @@
 	font-family: Trebuchet MS;
 }
 
-body, ul, li {
+body, ul, li{
 	margin: 0;
 	padding: 0;
 }
 
-p, li, h2, h3, h4 {
+li, p, h1, h2, h3, h4 {
 	color: #4e4e4e;
 }
 
 body {
-	#background: #f7f7f7;
+	background: #f7f7f7;
 }
 
 .wrapper {
@@ -20,17 +20,9 @@ body {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 2%;
-	border: 1px solid red;
 }
 
-header {
+header{
 	background: #e5e5e5;
-}
-
-
-/* #main-banner {
-
-} */
-#articles h2 {
-	text-transform: uppercase;
+	margin:
 }
